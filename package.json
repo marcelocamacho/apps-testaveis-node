@@ -19,5 +19,8 @@
     "eslint-plugin-react": "^7.33.2",
     "typescript": "^5.1.6",
     "vitest": "^0.34.1"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
   }
 }
